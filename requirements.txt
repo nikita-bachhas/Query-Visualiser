@@ -1,0 +1,6 @@
+tk==0.1.0
+networkx==2.5
+psutil==5.7.2
+pillow >= 4
+psycopg2==2.9.1
+matplotlib==3.3.2
